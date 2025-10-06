@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccdg8ikojii8q"
-path="res://.godot/imported/_Fall.png-2ac33bda6ac80d4d8168276ca9d882fc.ctex"
+uid="uid://cq8qpw1bp1gni"
+path="res://.godot/imported/BatStandard_Attack.png-b6f51ceeae025d1a76bdc4410b08b764.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/texture/_Fall.png"
-dest_files=["res://.godot/imported/_Fall.png-2ac33bda6ac80d4d8168276ca9d882fc.ctex"]
+source_file="res://Assets/texture/Ennemis/Bat/BatStandard_Attack.png"
+dest_files=["res://.godot/imported/BatStandard_Attack.png-b6f51ceeae025d1a76bdc4410b08b764.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccdg8ikojii8q"
-path="res://.godot/imported/_Fall.png-2ac33bda6ac80d4d8168276ca9d882fc.ctex"
+uid="uid://b31aiff03ux1d"
+path="res://.godot/imported/BatStandard_Death.png-75caf63da02b75403f60a99dd0ccc9ac.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/texture/_Fall.png"
-dest_files=["res://.godot/imported/_Fall.png-2ac33bda6ac80d4d8168276ca9d882fc.ctex"]
+source_file="res://Assets/texture/Ennemis/Bat/BatStandard_Death.png"
+dest_files=["res://.godot/imported/BatStandard_Death.png-75caf63da02b75403f60a99dd0ccc9ac.ctex"]
 
 [params]
 

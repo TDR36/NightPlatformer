@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccdg8ikojii8q"
-path="res://.godot/imported/_Fall.png-2ac33bda6ac80d4d8168276ca9d882fc.ctex"
+uid="uid://cimtxsifx8acb"
+path="res://.godot/imported/ToxicFrogBlueBlue_Attack.png-150788798f0f72bd92af1c3dbbe77841.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/texture/_Fall.png"
-dest_files=["res://.godot/imported/_Fall.png-2ac33bda6ac80d4d8168276ca9d882fc.ctex"]
+source_file="res://Assets/texture/Ennemis/Frog/ToxicFrogBlueBlue_Attack.png"
+dest_files=["res://.godot/imported/ToxicFrogBlueBlue_Attack.png-150788798f0f72bd92af1c3dbbe77841.ctex"]
 
 [params]
 
